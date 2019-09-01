@@ -1,0 +1,16 @@
+{
+  "name": "wechat-msg-text-parser",
+  "version": "1.0.0",
+  "description": "微信多选消息分享出的消息文本解析器",
+  "main": "main.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xmader/WechatMessageTextParser.git"
+  },
+  "author": "Xmader",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xmader/WechatMessageTextParser/issues"
+  },
+  "homepage": "https://github.com/Xmader/WechatMessageTextParser#readme"
+}
